@@ -1,6 +1,9 @@
+----------------------GIT COMMANDS-------------------------------------------------
+
 
 git config --global user.name "Himaja Bandi" // create git  user name
-git config --global user.emain "HimajaBandi@gmail.com" //create git user email
+git config --global user.email "HimajaBandi@gmail.com" //create git user email
+//if you want to edit the above details use git config --global --edit 
 git add // you can add untracked files 
 git status //to check status of the branch
 git stash // to stash the changes to stagging place
@@ -8,3 +11,11 @@ touch .gitignore //you can add the content that cannot be tracked by git ecoo sy
 git merge // to merge branches
 git init // to create git repository
 git branch <branch name> // to create a new branch
+vim <file name>
+to edit inside this type "i" then write your changes the "esc" and the ":wq"(Exit)
+
+------------------------GITHUB------------------------------------------------------
+folk (if you do this you can create a copy of public repository in your account)
+pull request
+
+
