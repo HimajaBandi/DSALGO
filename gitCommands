@@ -1,0 +1,10 @@
+
+git config --global user.name "Himaja Bandi" // create git  user name
+git config --global user.emain "HimajaBandi@gmail.com" //create git user email
+git add // you can add untracked files 
+git status //to check status of the branch
+git stash // to stash the changes to stagging place
+touch .gitignore //you can add the content that cannot be tracked by git ecoo system
+git merge // to merge branches
+git init // to create git repository
+git branch <branch name> // to create a new branch
